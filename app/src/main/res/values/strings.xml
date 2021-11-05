@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeliverHealth</string>
+    <string name="label">DeliverHealth Developer Test</string>
+    <string name="error_message">Opps! Failed to fetch the data.</string>
+</resources>
